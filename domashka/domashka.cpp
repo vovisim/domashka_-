@@ -31,7 +31,7 @@ Rat newSpeedAndName(Rat rat, double new_speed, double new_name) {
 
 int main() {
 
-    Rat a = makeNewRat(10.0, "shlushka", 0.0, 40.0, "NY YAAAAAA", 100000000);
+    Rat a = makeNewRat(10.0, "Kriska_Lariska", 0.0, 40.0, "NY YAAAAAA", 100000000);
 
     cout << "Rat Name: " << a.ratName << endl;
     cout << "Rat Speed: " << a.ratSpeed << endl;
